@@ -1,0 +1,8 @@
+__pycache__/
+venv/
+.idea
+*.pyc
+logs/
+*.log
+README.md
+```
